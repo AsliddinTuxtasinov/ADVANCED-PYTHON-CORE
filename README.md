@@ -15,21 +15,21 @@
 
 ## II. ADVANCED OOP & DESIGN
 
-### 4. Mixin Architecture
+### [4. Mixin Architecture](II.%20ADVANCED%20OOP%20&%20DESIGN/4.%20Mixin%20Architecture/README.md)
 - Django va FastAPI loyihalaringda ishlatish
 - Multiple inheritance safe patternlar
 
-### 5. Descriptor Protocol
+### [5. Descriptor Protocol](II.%20ADVANCED%20OOP%20&%20DESIGN/5.%20Descriptor%20Protocol/README.md)
 - __get__, __set__, __delete__
 - Django ORM descriptorlarini tushunish
 - CachedProperty, property descriptorlar
 
-### 6. Metaclasses — Real Use
+### [6. Metaclasses — Real Use](II.%20ADVANCED%20OOP%20&%20DESIGN/6.%20Metaclasses%20—%20Real%20Use/README.md)
 - Class yaratilishini boshqarish
 - Django Model metaclass qanday ishlaydi?
 - FastAPI Pydantic model generation
 
-### 7. Abstract Base Classes (ABC)
+### [7. Abstract Base Classes (ABC)](II.%20ADVANCED%20OOP%20&%20DESIGN/7.%20Abstract%20Base%20Classes%20%28ABC%29/README.md)
 - abc.ABC, abstractmethod
 - Interface segregationni Python usulida qilish
 
