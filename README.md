@@ -35,17 +35,17 @@
 
 ## III. FUNCTIONAL PYTHON
 
-### 8. Closures & advanced scopes
+### [8. Closures & advanced scopes](III.%20FUNCTIONAL%20PYTHON/8.%20Closures%20%26%20advanced%20scopes/README.md)
 - LEGB rule — compiled bytecode orqali tushuntirish
 - Closure’larning real backend ishlanmasi (cache, factory, config)
 
-### 9. Decoratorlar — advanced
+### [9. Decoratorlar — advanced](III.%20FUNCTIONAL%20PYTHON/9.%20Decoratorlar%20%E2%80%94%20advanced/README.md)
 - Decorator inside decorator (parameter decorator)
 - Class decorator
 - Method decorator
 - Funksional middleware patternlari
 
-### 10. Generatorlar va Iteratorlar
+### [10. Generatorlar va Iteratorlar](III.%20FUNCTIONAL%20PYTHON/10.%20Generatorlar%20va%20Iteratorlar/README.md)
 - Custom iteratorlar
 - Generator pipelines
 - Yield from
