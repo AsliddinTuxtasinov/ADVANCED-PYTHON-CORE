@@ -162,7 +162,7 @@ Bu repository orqali siz:
 
 ✅ Python ichki mexanizmlarini chuqur tushunasiz  
 ✅ Production-ready kod yozishni o'rganasiz  
-✅ Senior/Advanced-level Python developer bo'lasiz  
+✅ ADVANCED/Advanced-level Python developer bo'lasiz  
 ✅ FastAPI va Django loyihalarida expert bo'lasiz
 
 ---

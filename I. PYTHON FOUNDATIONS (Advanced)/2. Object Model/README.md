@@ -12,7 +12,7 @@ Bu yerda `5` → `int` klassining obyektidir.
 
 ## ✅ 2.2. id() nima? (C-level pointer)
 
-Ko‘pchilik `id()` faqat “unikal identifikator” deb o‘ylaydi — lekin SENIOR darajada bilish kerak:
+Ko‘pchilik `id()` faqat “unikal identifikator” deb o‘ylaydi — lekin ADVANCED darajada bilish kerak:
 
 > 📌 `id(obj)` → RAMdagi obyektning C-pointeri
 

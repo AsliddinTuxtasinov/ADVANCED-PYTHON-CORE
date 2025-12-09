@@ -74,7 +74,7 @@ Shuning uchun Python copy protokoli mavjud.
 
 ## 🏆 3.3. Copy Protokoli: __copy__ va __deepcopy__
 
-Real SENIOR lar shuni bilishi kerak:
+Real ADVANCED lar shuni bilishi kerak:
 
 Copy qilish jarayonini o‘zing nazorat qilishing mumkin.
 
@@ -109,7 +109,7 @@ class User:
 
 `memo` — infinite recursionni oldini oladi (cycle obyektlarda).
 
-## 🧨 3.4. Real life SENIOR misol — Config object
+## 🧨 3.4. Real life ADVANCED misol — Config object
 
 Oddiy copy ishlamaydi:
 
@@ -126,7 +126,7 @@ new_config = copy.deepcopy(config)
 
 Lekin yangi config’da DB connection deep copy bo‘lmasligi kerak.
 
-Shuning uchun SENIOR yechim:
+Shuning uchun ADVANCED yechim:
 
 ```python
 class Config:
@@ -137,7 +137,7 @@ class Config:
         return new_cfg
 ```
 
-Mana SENIOR-level deep copy 🔥
+Mana ADVANCED-level deep copy 🔥
 
 ## 🧨 3.5. Django ORM obyektlari copy qilinmaydi
 

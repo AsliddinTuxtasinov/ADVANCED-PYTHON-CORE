@@ -8,7 +8,7 @@
 - [3. Generator Pipelines (Functional Data Pipeline)](#3-generator-pipelines-functional-data-pipeline)
 - [4. yield from — Advanced Delegation (PEP 380)](#4-yield-from--advanced-delegation-pep-380)
 - [5. Infinite Streams — real backend patternlari](#5-infinite-streams--real-backend-patternlari)
-- [Senior-Level Patterns](#-senior-level-patterns)
+- [ADVANCED-Level Patterns](#-ADVANCED-level-patterns)
 
 ### Async Generatorlar
 - [6. Async Generatorlar nima?](#6-async-generatorlar-nima)
@@ -264,7 +264,7 @@ Infinite streamda muammo:
 
 ---
 
-## 📌 Senior-Level Patterns
+## 📌 ADVANCED-Level Patterns
 
 | Pattern | Foydasi |
 |---------|---------|

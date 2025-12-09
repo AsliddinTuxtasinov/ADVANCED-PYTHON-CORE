@@ -208,7 +208,7 @@ cdef class Point:
 
 ---
 
-## 6. Memory Profiling Tools (Real Senior Level)
+## 6. Memory Profiling Tools (Real ADVANCED Level)
 
 | Tool | Nima qiladi |
 |------|-------------|
@@ -243,7 +243,7 @@ print(tracemalloc.get_traced_memory())
 
 ---
 
-## 📌 Yakuniy Senior-Level Xulosa
+## 📌 Yakuniy ADVANCED-Level Xulosa
 
 | Mavzu | Asosiy tushuncha |
 |-------|------------------|
@@ -252,4 +252,4 @@ print(tracemalloc.get_traced_memory())
 | `__slots__` | Xotirani 2–10x kamaytiradi, lekin dynamic attribute'larni bloklaydi |
 | C-extensionlar | Pythonni haqiqiy compiled tildek tezlashtiradi |
 
-Bu bo'limni o'zlashtirish Pythonning performance va memory usage bo'yicha senior-level optimizator bo'lishga imkon beradi.
+Bu bo'limni o'zlashtirish Pythonning performance va memory usage bo'yicha ADVANCED-level optimizator bo'lishga imkon beradi.
