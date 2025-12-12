@@ -84,16 +84,16 @@ Ushbu repository Advanced Python bilimlarini chuqur o'rganish uchun mo'ljallanga
 
 ## V. ADVANCED ASYNC PYTHON
 
-### 14. Event Loop deep dive
+### [14. Event Loop deep dive](V.%20ADVANCED%20ASYNC%20PYTHON/14.%20Event%20Loop%20deep%20dive/README.md)
 - Tasks
 - Future
 - Awaitable protokoli
 
-### 15. Async context managers
+### [15. Async context managers](V.%20ADVANCED%20ASYNC%20PYTHON/15.%20Async%20context%20managers/README.md)
 - `async with` protokoli
 - Connection pooling, Redis, DB sesiyalarida
 
-### 16. Asyncio internals
+### [16. Asyncio internals](V.%20ADVANCED%20ASYNC%20PYTHON/16.%20Asyncio%20internals/README.md)
 - `gather`, `wait`, `shield`, `semaphore`, `lock`
 - Asyncio cancellation
 - Task groups (`asyncio.TaskGroup`)
