@@ -100,7 +100,7 @@ Ushbu repository Advanced Python bilimlarini chuqur o'rganish uchun mo'ljallanga
 
 ---
 
-## VI. DESIGN PATTERNS (ADVANCED DARAJADA)
+## [VI. DESIGN PATTERNS (ADVANCED DARAJADA)](VI.%20DESIGN%20PATTERNS%20(ADVANCED%20DARAJADA)/README.md)
 
 > 🔥 **Muhimi:** Pythonic tarzda
 
