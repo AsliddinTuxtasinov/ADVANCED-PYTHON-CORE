@@ -115,10 +115,10 @@ Ushbu repository Advanced Python bilimlarini chuqur o'rganish uchun mo'ljallanga
 
 ## VII. ADVANCED FILES, IO & NETWORK
 
-### 17. Low-level socket programming
-### 18. Async networking (aiohttp, websockets)
-### 19. Binary data handling (struct, pickle, protobuf)
-### 20. Memory-mapped files (mmap)
+### [17. Low-level socket programming](VII.%20ADVANCED%20FILES,%20IO%20&%20NETWORK/17.%20Low-level%20socket%20programming/README.md)
+### [18. Async networking (aiohttp, websockets)](VII.%20ADVANCED%20FILES,%20IO%20&%20NETWORK/18.%20Async%20networking%20(aiohttp,%20websockets)/README.md)
+### [19. Binary data handling (struct, pickle, protobuf)](VII.%20ADVANCED%20FILES,%20IO%20&%20NETWORK/19.%20Binary%20data%20handling%20(struct,%20pickle,%20protobuf)/README.md)
+### [20. Memory-mapped files (mmap)](VII.%20ADVANCED%20FILES,%20IO%20&%20NETWORK/20.%20Memory-mapped%20files%20(mmap)/README.md)
 
 ---
 
