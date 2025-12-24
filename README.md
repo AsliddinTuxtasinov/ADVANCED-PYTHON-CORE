@@ -124,18 +124,18 @@ Ushbu repository Advanced Python bilimlarini chuqur o'rganish uchun mo'ljallanga
 
 ## VIII. TESTING & CLEAN ARCHITECTURE
 
-### 21. Unit & Integration testing
+### [21. Unit & Integration testing](VIII.%20TESTING%20&%20CLEAN%20ARCHITECTURE/21.%20Unit%20&%20Integration%20testing/README.md)
 - Mocking (advanced)
 - Patch techniques
 - Dependency overriding (FastAPI-da super muhim)
 
-### 22. Clean Architecture in Python
+### [22. Clean Architecture in Python](VIII.%20TESTING%20&%20CLEAN%20ARCHITECTURE/22.%20Clean%20Architecture%20in%20Python/README.md)
 - Entities
 - Use Cases
 - Interfaces
 - Infrastructure layer
 
-### 23. DDD real Python misollarida
+### [23. DDD real Python misollarida](VIII.%20TESTING%20&%20CLEAN%20ARCHITECTURE/23.%20DDD%20real%20Python%20misollarida/README.md)
 
 ---
 
