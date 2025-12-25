@@ -139,7 +139,7 @@ Ushbu repository Advanced Python bilimlarini chuqur o'rganish uchun mo'ljallanga
 
 ---
 
-## IX. EXTRA Advanced Topics (Super Advanced)
+## [IX. EXTRA Advanced Topics (Super Advanced)](IX.%20EXTRA%20Advanced%20Topics%20(Super%20Advanced)/README.md)
 
 - Custom interpreter ("meta-programming")
 - AST manipulation (python code generator)
@@ -150,20 +150,24 @@ Ushbu repository Advanced Python bilimlarini chuqur o'rganish uchun mo'ljallanga
 
 ## 📚 Qo'shimcha Resurslar
 
+> ⚠️ **Eslatma:** Ushbu ma'lumotlar turli manbalardan qidiruv va sun'iy intellekt (AI) yordamida jamlangan. Agar kontentda tushunmovchiliklar yoki xatoliklar uchrasa, oldindan uzr so'raymiz.
+
 - [Python Documentation](https://docs.python.org/3/)
 - [Real Python](https://realpython.com/)
 - [Python Enhancement Proposals (PEPs)](https://peps.python.org/)
+
+📧 **Aloqa va takliflar uchun:** [asliddintukhtasinov5@gmail.com](mailto:asliddintukhtasinov5@gmail.com)
 
 ---
 
 ## 🎯 Maqsad
 
-Bu repository orqali siz:
+Bu repository'da jamlangan ma'lumotlar orqali siz:
 
-✅ Python ichki mexanizmlarini chuqur tushunasiz  
-✅ Production-ready kod yozishni o'rganasiz  
-✅ ADVANCED/Advanced-level Python developer bo'lasiz  
-✅ FastAPI va Django loyihalarida expert bo'lasiz
+- ✅ **Ichki mexanizmlar** — Python "kapot ostida" qanday ishlashini (Memory, GIL) tushunasiz
+- ✅ **Yuqori sifat** — Production talablariga mos, optimal va xavfsiz kod yozishni o‘rganasiz
+- ✅ **Chuqur tahlil** — Murakkab mavzularni (Meta-classes, AsyncIO) oson o‘zlashtirasiz
+- ✅ **Framework ekspertligi** — Django va FastAPI‘ning ishlash prinsipini to‘liq anglaysiz
 
 ---
 
